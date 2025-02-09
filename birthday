@@ -8,7 +8,7 @@
 </head>
 <body>
     <div id="greeting">
-        <h1>Happy Birthday, [Your Girlfriend's Name]!</h1>
+        <h1>Happy Birthday, [fatima]!</h1>
         <p id="message">Wishing you all the love and happiness in the world on your special day!</p>
     </div>
 
@@ -19,7 +19,7 @@
     </div>
 
     <button id="surpriseBtn">Click for a Surprise!</button>
-    <p id="surpriseMessage" style="display:none;">I love you so much! 💖</p>
+    <p id="surpriseMessage" style="display:none;"> happy birthday sweet hard! 💖</p>
 
     <script src="script.js"></script>
 </body>
